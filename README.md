@@ -30,8 +30,11 @@ Install requirements first ...
     (venv) $ pip install -r requirements.txt
 
 Then run tests using pytest cmd:
+
 	(venv) $ pytest
 	
 	
 You can find test files in path:'code_challenge_qa/tests'.
+
+
 Thanks.   :)
